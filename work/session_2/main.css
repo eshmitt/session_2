@@ -1,0 +1,11 @@
+#wrapper {
+    width: 980px;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+#nav_bar {
+    width: 980px;
+    margin: 0 auto;
+    background-color: black;
+}
