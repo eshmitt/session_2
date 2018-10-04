@@ -1,11 +1,27 @@
 #wrapper {
     width: 980px;
     margin: 0 auto;
-    background-color: gray;
+    background-color: lightgray;
 }
 
 #nav_bar {
     width: 980px;
     margin: 0 auto;
-    background-color: black;
+}
+
+ul {
+    text-decoration: none;
+    
+}
+
+#left_section {
+    width: 280px;
+    height: 1080px;
+    background-color: red;
+}
+
+#main_section {
+    width: 680px;
+    height: 1080px;
+    background-color: green;
 }
