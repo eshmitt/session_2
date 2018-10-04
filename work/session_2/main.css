@@ -1,5 +1,5 @@
 #wrapper {
-    width: 980px;
+    width: 1920px;
     margin: 0 auto;
     background-color: lightgray;
 }
@@ -10,18 +10,26 @@
 }
 
 ul {
-    text-decoration: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     
+}
+
+li {
+    display: inline;
 }
 
 #left_section {
     width: 280px;
     height: 1080px;
-    background-color: red;
+    background-color: #4D45B2;
+    float: left;
 }
 
 #main_section {
     width: 680px;
     height: 1080px;
     background-color: green;
+    float: left;
 }
